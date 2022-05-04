@@ -1,3 +1,5 @@
 Danas ucimo git.
 Predmet Softversko upravljanje projekata
 Fakultet informacionih tehnologija
+Danas ucimo git. Ovo je grana1
+
