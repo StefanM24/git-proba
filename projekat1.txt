@@ -1,1 +1,2 @@
 Danas ucimo git.
+Predmet Softversko upravljanje projekata
