@@ -1,1 +1,1 @@
-Danas ucimo git.
+Danas ucimo git. Ovo je grana1
